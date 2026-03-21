@@ -1,2 +1,3 @@
-# auto-task-manager-r1et
-Automated issue comment bot repository
+# Auto Task Manager R1Et
+
+Automated issue comment bot repository.
